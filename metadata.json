@@ -1,0 +1,6 @@
+{
+  "name": "DigiKonstruct Presentation",
+  "description": "Soutenance PFE Presentation for DigiKonstruct.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
